@@ -233,6 +233,9 @@
 				FAB94BC515C0557A0031197A /* Resources */,
 				FAB94C2315C06A990031197A /* CopyFiles */,
 			);
+
+                           FAB94768@favb7RA000#!@%/*
+
 			buildRules = (
 			);
 			dependencies = (
